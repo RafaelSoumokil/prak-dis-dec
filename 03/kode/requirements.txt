@@ -1,0 +1,1 @@
+# Tidak ada paket pihak ketiga yang dibutuhkan. Menggunakan standard library Python 3.
