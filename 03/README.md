@@ -34,6 +34,9 @@ Pada praktikum Modul 3 ini, mahasiswa mempelajari sinkronisasi waktu, vector clo
 2. Melatih kemampuan menjalankan dan menganalisis program Python.
 3. Mengetahui cara mengatasi masalah yang terjadi akibat proses berjalan secara bersamaan.
 4. Memahami dasar pemilihan koordinator dalam sistem terdistribusi.
+   <img width="757" height="539" alt="image" src="https://github.com/user-attachments/assets/839b06e9-2314-4ecb-869f-c3905fded9be" />
+
+
 BAB II. DASAR TEORI
 2.1 Sinkronisasi Waktu
 Sinkronisasi waktu adalah proses menyamakan waktu pada beberapa komputer agar memiliki acuan waktu yang sesuai. Dalam sistem terdistribusi, sinkronisasi waktu diperlukan untuk membantu pencatatan aktivitas dan pengurutan kejadian.
