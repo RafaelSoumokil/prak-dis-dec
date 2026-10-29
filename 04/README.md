@@ -1,5 +1,4 @@
-
-DRAFT LAPORAN DAN PANDUAN PRAKTIKUM MODUL 4
+LAPORAN DAN PANDUAN PRAKTIKUM MODUL 4
 
 Konsistensi dan Replikasi pada Sistem Terdistribusi
 
