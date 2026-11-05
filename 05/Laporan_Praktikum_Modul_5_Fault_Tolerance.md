@@ -335,18 +335,4 @@ fungsi yang berbeda dalam membantu menjaga keandalan sistem. Pengujian
 lanjutan masih diperlukan untuk mengamati secara langsung perpindahan
 status Circuit Breaker dari Closed ke Open dan Half-Open.
 
-## 7. Dokumentasi
 
-Tambahkan screenshot hasil praktikum pada bagian ini sesuai urutan:
-
-1.  **Gambar 1.** Container Load Balancing aktif (`docker compose ps`).
-2.  **Gambar 2.** Aplikasi dapat diakses melalui browser (`localhost`).
-3.  **Gambar 3.** Log dua instance aplikasi menerima permintaan.
-4.  **Gambar 4.** Container dihentikan (`docker compose down`).
-5.  **Gambar 5.** Pengujian Heartbeat saat server tidak aktif
-    (`Server down`).
-6.  **Gambar 6.** Pengujian Heartbeat saat server aktif (`Server up`).
-7.  **Gambar 7.** Pengujian Retry saat server aktif.
-8.  **Gambar 8.** Pengujian Retry saat server tidak aktif.
-9.  **Gambar 9.** Pengujian Circuit Breaker saat server tidak aktif.
-10. **Gambar 10.** Pengujian Circuit Breaker saat server aktif.
