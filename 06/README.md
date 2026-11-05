@@ -5,7 +5,6 @@
 
 - **Nama:** Rafael Natalino Soumokil
 - **Program Studi:** Informatika 1
-- **Universitas:** UTDI
 - **Mata Kuliah:** Sistem Terdistribusi
 - **Materi:** Distributed File System – HDFS
 
