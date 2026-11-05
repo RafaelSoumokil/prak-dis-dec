@@ -4,9 +4,9 @@
 
 ### Fault Tolerance
 
-**Nama:** ........................................\
-**NIM:** ........................................\
-**Program Studi:** ........................................\
+**Nama:** Rafael Natalino Soumokil
+**NIM:** 255410022
+**Program Studi:** Informatika 1
 **Mata Kuliah:** Sistem Terdistribusi dan Terdesentralisasi
 
 ------------------------------------------------------------------------
