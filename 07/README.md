@@ -39,6 +39,7 @@ Salah satu blok bangunan yang memungkinkan layanan-layanan tersebut adalah conta
 5.  Menjelaskan langkah padanan untuk membangun dan menjalankan aplikasi dengan Podman.
 6.  Menganalisis hasil, keterbatasan lingkungan, serta hubungan container dengan model XaaS.
 1.3  Lingkungan Praktikum
+   image/Screenshot 2026-11-18 205314.png
 Praktikum dikerjakan pada lingkungan Windows 11 dengan terminal Git Bash yang terintegrasi di Visual Studio Code. Server Flask dijalankan di host, sedangkan container dijalankan oleh Docker Desktop yang menyediakan VM Linux. Podman tidak tersedia secara native pada host ini; bagian Podman dijelaskan pada Bab 5 dengan keterangan sumber keluarannya. Ringkasan lingkungan disajikan pada Tabel 1.
 Tabel 1. Lingkungan praktikum dan versi perkakas yang digunakan.
 Komponen	Versi / Keterangan
